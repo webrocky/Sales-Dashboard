@@ -1,4 +1,4 @@
-name: sales_dashboard
+name: advancedash
 channels:
   - defaults
   - conda-forge
