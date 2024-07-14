@@ -1,0 +1,11 @@
+name: sales_dashboard
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - streamlit
+  - plotly
+  - scikit-learn
+  - openpyxl
